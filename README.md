@@ -3,7 +3,7 @@
 I am a new developer currently learning a lot of stuff. 
 
 ### 🚀 About Me
-- 📚 Currently learning: **[HTML, CSS, JavaScript, Python, etc.]**
+- 📚 Currently learning: **HTML, CSS, JavaScript, Python, etc.**
 - 🎯 Current Goal: **Learn something new and try to use it.**
 
 ### 📬 Connect
