@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Putterp99! 👋
+
+I am a new developer currently learning a lot of stuff. 
+
+### 🚀 About Me
+- 📚 Currently learning: **[HTML, CSS, JavaScript, Python, etc.]**
+- 🎯 Current Goal: **Learn something new and try to use it.**
+
+### 📬 Connect
+- 🌐 SNS: @Putterp99
+
 
 <!--
 **Putterp99/putterp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
